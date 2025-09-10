@@ -9,7 +9,7 @@ I’m taking this leap of faith into software development not only to fulfill a 
 ****************************************************************************************************************************************************************************************************************************************************
 
 
-**September 8, 2025 Basic Javascript Concepts**
+**September 9, 2025 Basic Javascript Concepts**
 
 Today I spent a couple hours reviewing and taking quizzes on basic JS concepts like, variables, strings. This was a good refresher to be able to remember basic rules that will come in handy when visiting more indepth and complex JS concepots. I also took the time to be able to search and save some jobs in huntr to be able to review them and see if those jobs that I saved align with my skill set.
 
