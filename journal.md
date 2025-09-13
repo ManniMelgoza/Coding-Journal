@@ -14,3 +14,11 @@ I’m taking this leap of faith into software development not only to fulfill a 
 Today I spent a couple hours reviewing and taking quizzes on basic JS concepts like, variables, strings. This was a good refresher to be able to remember basic rules that will come in handy when visiting more indepth and complex JS concepots. I also took the time to be able to search and save some jobs in huntr to be able to review them and see if those jobs that I saved align with my skill set.
 
 ****************************************************************************************************************************************************************************************************************************************************
+
+
+**September 10-12, 2025 Javascript Functions**
+
+For the past three days I have spent my time reviwing and refreshing the diffrent kind of functions and also have being looked over the different types of loops. I have been working on some practice problems and trying to do at least one leetcode problem a day. 
+
+
+****************************************************************************************************************************************************************************************************************************************************
