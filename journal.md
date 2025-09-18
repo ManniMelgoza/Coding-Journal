@@ -18,7 +18,15 @@ Today I spent a couple hours reviewing and taking quizzes on basic JS concepts l
 
 **September 10-12, 2025 Javascript Functions**
 
-For the past three days I have spent my time reviwing and refreshing the diffrent kind of functions and also have being looked over the different types of loops. I have been working on some practice problems and trying to do at least one leetcode problem a day. 
+For the past three days I have spent my time reviwing and refreshing the diffrent kind of functions and also have being looked over the different types of loops. I have been working on some practice problems and trying to do at least one leetcode problem a day.
+
+
+****************************************************************************************************************************************************************************************************************************************************
+
+
+**September 13-18, 2025 Javascript Functions**
+
+For the past five days, I took time to review DS&A concepts and did some leetcode problems. I would have to say that by going over DS&A concepts it made me realized I need to refresh my memory on baisc skills and to also take my time with my approach as to how I plan to solved the leetcode problems.
 
 
 ****************************************************************************************************************************************************************************************************************************************************
