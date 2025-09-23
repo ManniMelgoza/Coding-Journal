@@ -24,7 +24,7 @@ For the past three days I have spent my time reviwing and refreshing the diffren
 ****************************************************************************************************************************************************************************************************************************************************
 
 
-**September 13-18, 2025 Javascript Functions**
+**September 13-18, 2025 Javascript DS&A**
 
 For the past five days, I took time to review DS&A concepts and did some leetcode problems. I would have to say that by going over DS&A concepts it made me realized I need to refresh my memory on baisc skills and to also take my time with my approach as to how I plan to solved the leetcode problems.
 
