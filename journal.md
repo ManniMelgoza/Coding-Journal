@@ -30,3 +30,6 @@ For the past five days, I took time to review DS&A concepts and did some leetcod
 
 
 ****************************************************************************************************************************************************************************************************************************************************
+
+**September 18-23, 2025 Job Applications**
+For the past week I have applied to some job postings and attended a cople workshops and a JS meet up. Unfortunatly I recevied some reject responses. I am okay with that because I know that my skills need to grow, but I still want to keep applying. 
